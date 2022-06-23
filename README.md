@@ -1,2 +1,2 @@
-# azzam-resolusi
+# my-resolusi
 Repository untuk menyimpan rencana Saya kedepannya
