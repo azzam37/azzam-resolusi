@@ -4,5 +4,6 @@ Azzam Resolusi
  *SKS
  *Akmal
 -Membuat Website Sekolah
+ *sestelah belajar HTML dan CSS
 -Rajin masuk kelas
 -Belajar Design
