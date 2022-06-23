@@ -1,6 +1,8 @@
 Azzam Resolusi
 -Konsisten Belajar Ngoding
 -Membuat Aplikasi Peminjaman Barang
+ *SKS
+ *Akmal
 -Membuat Website Sekolah
 -Rajin masuk kelas
 -Belajar Design
